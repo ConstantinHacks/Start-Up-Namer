@@ -1,8 +1,3 @@
 # startup_namer
 
-A new Flutter project.
-
-## Getting Started
-
-For help getting started with Flutter, view our online
-[documentation](https://flutter.io/).
+My first ever flutter project following the tutorial: https://flutter.io/docs/get-started/codelab
